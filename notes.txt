@@ -1,0 +1,7 @@
+Git and GitHub Assignment
+
+Git is a distributed version control system.
+
+GitHub is a cloud-based platform used to host Git repositories.
+
+It helps developers manage and share project files.
